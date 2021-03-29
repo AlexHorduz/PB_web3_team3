@@ -1,0 +1,12 @@
+a:    from <input type="text" name="from_a" value="<%=from_a%>"/>
+        to <input type="text" name="to_a" value="<%=to_a%>"/>
+       step: <input type="text" name="step_a" value="<%=step_a%>"/> <br> <br>
+b:    from <input type="text" name="from_b" value="<%=from_b%>"/>
+        to <input type="text" name="to_b" value="<%=to_b%>"/>
+        step: <input type="text" name="step_b" value="<%=step_b%>"/> <br> <br>
+c:    from <input type="text" name="from_c" value="<%=from_c%>"/>
+        to <input type="text" name="to_c" value="<%=to_c%>"/>
+        step: <input type="text" name="step_c" value="<%=step_c%>"/> <br> <br>
+d:    from <input type="text" name="from_d" value="<%=from_d%>"/>
+        to <input type="text" name="to_d" value="<%=to_d%>"/>
+        step: <input type="text" name="step_d" value="<%=step_d%>"/> </br> </br>
